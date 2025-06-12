@@ -32,4 +32,16 @@ git commit -m "Update content via webhook"
 git push
 
 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello Jenkins</title>
+</head>
+<body>
+    <h1>Hello Jenkins</h1>
+</body>
+</html>
+
+
 
